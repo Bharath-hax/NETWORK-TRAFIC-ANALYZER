@@ -19,9 +19,6 @@ It helps monitor packets, extract useful insights (like protocols, source/destin
 
 ## 🛠️ Requirements
 - Python 3.8+
-- [Scapy](https://scapy.net/) (`pip install scapy`)
-- [psutil](https://pypi.org/project/psutil/) *(optional: for system info)*
 
-Install all dependencies with:
-```bash
-pip install -r requirements.txt
+-how to run?
+-python3 NTA.py
